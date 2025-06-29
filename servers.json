@@ -108,7 +108,7 @@
             "@AdvancedRappelling",
             "@AdvancedUrbanRappelling"
         ],
-	password: true
+	"password": true
     },
 
     "Exile Escape": {
