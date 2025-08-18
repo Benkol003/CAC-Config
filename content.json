@@ -9,15 +9,15 @@
         "@AdvancedUrbanRappelling": "https://tinyurl.com/42ry63jk",
         "@Align": "https://tinyurl.com/4bhn7s7h",
         "@Anizay": "https://tinyurl.com/2ed6znn2",
-        "@Antistasi": "https://tinyurl.com/22e5nx36",
-        "@AntistasiUltimate": "https://tinyurl.com/5cmsxemr",
+        "@Antistasi": "https://tinyurl.com/4rwrk645",
+        "@AntistasiUltimate": "https://tinyurl.com/45978e9n",
         "@AWR": "https://tinyurl.com/fukfhmj8",
         "@Blastcore": "https://tinyurl.com/exc3ye6a",
         "@BWMod": "https://tinyurl.com/2r8herac",
         "@CAC_AE": "https://tinyurl.com/mxa6r3za",
         "@cac_aue": "https://tinyurl.com/y6uwn8ms",
         "@CAC_Liberation": "https://tinyurl.com/5n8yethc",
-        "@CBA_A3": "https://tinyurl.com/74f954tk",
+        "@CBA_A3": "https://tinyurl.com/4afyyfmm",
         "@CFP": [
             "https://tinyurl.com/38sx99t9",
             "https://tinyurl.com/bdcwjn3a"
@@ -80,10 +80,11 @@
         "@Vehicle_Inventory_System": "https://tinyurl.com/ymjunbmj",
         "@VET_Unflipping": "https://tinyurl.com/5ezzd7my",
         "@VirolahtiValtatie7": "https://tinyurl.com/yc27asp5",
-        "@X66-MammothTank": "https://tinyurl.com/bdnhswhk",
+        "@X66-MammothTank": "https://tinyurl.com/yc444twt",
         "@Yulakia": "https://tinyurl.com/YulakiaModCAC",
         "@HideAmongTheGrass": "https://tinyurl.com/3c4st3cu",
-        "@GreenSea": "https://tinyurl.com/axrvpcjy"
+        "@GreenSea": "https://tinyurl.com/axrvpcjy",
+        "@ProjectOPFOR": "https://tinyurl.com/mru3dz63"
     },
     "optionals": {
         "@ARM": "https://tinyurl.com/vnt3z7y2",
@@ -111,17 +112,17 @@
     },
     "dlc": {
         "rf": {
-            "link": "https://tinyurl.com/2k85bmyc",
+            "link": "https://tinyurl.com/mv8enesh",
             "pwd": "cs.rin.ru",
             "description": "Reaction Forces"
         },
         "ws": {
-            "link": "https://tinyurl.com/yj49n83r",
+            "link": "https://tinyurl.com/5n8u57sf",
             "pwd": "cs.rin.ru",
             "description": "Western Sahara"
         },
         "spe": {
-            "link": "https://tinyurl.com/2p9k9dsn",
+            "link": "https://tinyurl.com/bdhmuwet",
             "pwd": "cs.rin.ru",
             "description": "Spearhead 1944"
         }
