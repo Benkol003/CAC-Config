@@ -4,6 +4,7 @@
         "port": 3302,
         "country": "United Kingdom",
         "mods": [
+            "rf",
             "@ace",
             "@ace_nouniformrestrictions",
             "@CBA_A3",
@@ -29,7 +30,6 @@
         "port": 2702,
         "country": "United Kingdom",
         "mods": [
-            "rf",
             "@CBA_A3",
             "@Mehland",
             "@CUPTerrainsCore",
