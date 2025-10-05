@@ -4,7 +4,6 @@
         "port": 3302,
         "country": "United Kingdom",
         "mods": [
-            "rf",
             "@ace",
             "@ace_nouniformrestrictions",
             "@CBA_A3",
