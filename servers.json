@@ -53,36 +53,32 @@
             "@HideAmongTheGrass"
         ]
     },
-    "Liberation": {
-        "address": "ge1.server.jishnukarri.me",
-        "port": 3302,
-        "country": "EU",
+    "Alive": {
+        "address": "theghost.ddns.net",
+        "port": 2502,
+        "country": "UK",
         "mods": [
             "@ace",
             "@ACEGrenades",
             "@ace_nouniformrestrictions",
             "@AdvancedRappelling",
-            "@AdvancedSlingLoading",
-            "@AdvancedTowing",
             "@AdvancedUrbanRappelling",
-            "@Align",
-            "@CAC_Liberation",
+            "@ALiVE",
+            "@Arma_3_Aegis",
+            "@Arma_3_Atlas",
+            "@AWR",
             "@CBA_A3",
             "@CUPUnits",
             "@CUPVehicles",
             "@CUPWeapons",
+            "@Drongos_AI_Fire_Support",
+            "@Drongos_Air_Operations",
             "@EnhancedMovement",
             "@EnhancedMovementRework",
             "@HideAmongTheGrass",
-            "@KPRanks",
-            "@ProjectOPFOR",
             "@RealEngine",
-            "@RHSAFRF",
-            "@RHSGREF",
-            "@RHSSAF",
-            "@RHSUSAF",
-            "@Suppress",
-            "@Vehicle_Inventory_System",
+            "@Simplex_Support_Services_[DB]",
+            "@Spyder_Addons",
             "@VET_Unflipping"
         ]
 
