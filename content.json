@@ -126,12 +126,13 @@
             "description": "Reaction Forces"
         },
         "ws": {
-            "link": "https://tinyurl.com/5n8u57sf",
+            "link": ["https://tinyurl.com/4588vadb","https://tinyurl.com/5azyuzte"],
+            "sfv": "https://tinyurl.com/2sjuwync",
             "pwd": "cs.rin.ru",
             "description": "Western Sahara"
         },
         "spe": {
-            "link": "https://tinyurl.com/bdhmuwet",
+            "link": ["https://tinyurl.com/yc4ydszm","https://tinyurl.com/zxm6uhk9","https://tinyurl.com/2ke6apr5","https://tinyurl.com/nkyk9rdf","https://tinyurl.com/y38uketc","https://tinyurl.com/4vvwp6ur","https://tinyurl.com/2cf7penj","https://tinyurl.com/4tksd8ah"],
             "pwd": "cs.rin.ru",
             "description": "Spearhead 1944"
         }
