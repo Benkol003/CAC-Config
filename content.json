@@ -71,7 +71,7 @@
         "@POOKSAMPACK": "https://tinyurl.com/4przznz3",
         "@ProjectOPFOR": "https://tinyurl.com/mru3dz63",
         "@RealEngine": "https://tinyurl.com/2tv96yd7",
-        "@Really_Useless_Objects_Pack":"https://tinyurl.com/3zc5vkp9",
+        "@Really_Useless_Objects_Pack": "https://tinyurl.com/3zc5vkp9",
         "@RHSAFRF": "https://tinyurl.com/2s3s8r8e",
         "@RHSGREF": "https://tinyurl.com/2p84c7cj",
         "@RHSSAF": "https://tinyurl.com/45cy98h8",
@@ -93,7 +93,7 @@
         "@VET_Unflipping": "https://tinyurl.com/5ezzd7my",
         "@VirolahtiValtatie7": "https://tinyurl.com/yc27asp5",
         "@X66-MammothTank": "https://tinyurl.com/yc444twt",
-        "@Yulakia": "https://tinyurl.com/YulakiaModCAC"    
+        "@Yulakia": "https://tinyurl.com/YulakiaModCAC"
     },
     "optionals": {
         "@ARM": "https://tinyurl.com/vnt3z7y2",
@@ -126,13 +126,25 @@
             "description": "Reaction Forces"
         },
         "ws": {
-            "link": ["https://tinyurl.com/4588vadb","https://tinyurl.com/5azyuzte"],
+            "link": [
+                "https://tinyurl.com/4588vadb",
+                "https://tinyurl.com/5azyuzte"
+            ],
             "sfv": "https://tinyurl.com/2sjuwync",
             "pwd": "cs.rin.ru",
             "description": "Western Sahara"
         },
         "spe": {
-            "link": ["https://tinyurl.com/yc4ydszm","https://tinyurl.com/zxm6uhk9","https://tinyurl.com/2ke6apr5","https://tinyurl.com/nkyk9rdf","https://tinyurl.com/y38uketc","https://tinyurl.com/4vvwp6ur","https://tinyurl.com/2cf7penj","https://tinyurl.com/4tksd8ah"],
+            "link": [
+                "https://tinyurl.com/yc4ydszm",
+                "https://tinyurl.com/zxm6uhk9",
+                "https://tinyurl.com/2ke6apr5",
+                "https://tinyurl.com/nkyk9rdf",
+                "https://tinyurl.com/y38uketc",
+                "https://tinyurl.com/4vvwp6ur",
+                "https://tinyurl.com/2cf7penj",
+                "https://tinyurl.com/4tksd8ah"
+            ],
             "pwd": "cs.rin.ru",
             "description": "Spearhead 1944"
         }
