@@ -93,7 +93,8 @@
             "@EnhancedMovementRework",
             "@MfHealAbort",
             "@AdvancedRappelling",
-            "@AdvancedUrbanRappelling"
+            "@AdvancedUrbanRappelling",
+            "@GrenadesIntoHatches"
         ]
     },
     "Exile": {
