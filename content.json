@@ -1,6 +1,6 @@
 {
     "mods": {
-        "@ace": "https://tinyurl.com/522ecsc4",
+        "@ace": "https://tinyurl.com/7xfm372m",
         "@ACEGrenades": "https://tinyurl.com/5n8snacm",
         "@ace_nouniformrestrictions": "@ace/optionals/",
         "@AdvancedRappelling": "https://tinyurl.com/2p9fs3u6",
@@ -20,25 +20,29 @@
         "@CAC_AE": "https://tinyurl.com/4hzxan9k",
         "@cac_aue": "https://tinyurl.com/y6uwn8ms",
         "@CAC_Liberation": "https://tinyurl.com/5n8yethc",
-        "@CBA_A3": "https://tinyurl.com/4afyyfmm",
+        "@CBA_A3": "https://tinyurl.com/3f3tp9x4",
         "@CFP": [
             "https://tinyurl.com/38sx99t9",
             "https://tinyurl.com/bdcwjn3a"
         ],
-        "@CUPTerrainsCore": "https://tinyurl.com/57c5hp96",
+        "@CUPTerrainsCore": [
+            "https://tinyurl.com/4m8kvft8",
+            "https://tinyurl.com/mr2c65zp",
+            "https://tinyurl.com/y8ykk9zu"
+        ],
         "@CUPTerrainsMaps": "https://tinyurl.com/yeact4pb",
         "@CUPUnits": [
-            "https://tinyurl.com/2sr745db",
-            "https://tinyurl.com/3byxc2z5"
+            "https://tinyurl.com/vxs6wx9w",
+            "https://tinyurl.com/yc73zdza"
         ],
         "@CUPVehicles": [
-            "https://tinyurl.com/bdxhcbaf",
-            "https://tinyurl.com/2s43aw63",
-            "https://tinyurl.com/96ymrb6d"
+            "https://tinyurl.com/4kf2bjeb",
+            "https://tinyurl.com/bdz7sczb",
+            "https://tinyurl.com/5evfpry8"
         ],
         "@CUPWeapons": [
-            "https://tinyurl.com/y9cfn4r2",
-            "https://tinyurl.com/3vn7m8rw"
+            "https://tinyurl.com/5b49mpj6",
+            "https://tinyurl.com/bdsem5ns"
         ],
         "@DualArms": "https://tinyurl.com/5n7y8bw6",
         "@Drongos_AI_Fire_Support": "https://tinyurl.com/4bpjmx8r",
