@@ -26,9 +26,9 @@
             "https://tinyurl.com/bdcwjn3a"
         ],
         "@CUPTerrainsCore": [
-            "https://tinyurl.com/4m8kvft8",
-            "https://tinyurl.com/mr2c65zp",
-            "https://tinyurl.com/4fr3r9z2"
+            "https://tinyurl.com/5yux2yed",
+            "https://tinyurl.com/5f37jf47",
+            "https://tinyurl.com/57v5pw3e"
         ],
         "@CUPTerrainsMaps": "https://tinyurl.com/yeact4pb",
         "@CUPUnits": [
@@ -36,13 +36,13 @@
             "https://tinyurl.com/yc73zdza"
         ],
         "@CUPVehicles": [
-            "https://tinyurl.com/4kf2bjeb",
-            "https://tinyurl.com/bdz7sczb",
-            "https://tinyurl.com/5evfpry8"
+            "https://tinyurl.com/bdkk2ru2",
+            "https://tinyurl.com/yk667sp3",
+            "https://tinyurl.com/yts5cerz"
         ],
         "@CUPWeapons": [
-            "https://tinyurl.com/5b49mpj6",
-            "https://tinyurl.com/bdsem5ns"
+            "https://tinyurl.com/4fvk5pz2",
+            "https://tinyurl.com/ed89p3c6"
         ],
         "@DualArms": "https://tinyurl.com/5n7y8bw6",
         "@Drongos_AI_Fire_Support": "https://tinyurl.com/4bpjmx8r",
@@ -56,7 +56,7 @@
         "@GreenSea": "https://tinyurl.com/axrvpcjy",
         "@GrenadesIntoHatches": "https://tinyurl.com/2ewhsxca",
         "@G.O.S_Al_Rayak": "https://tinyurl.com/bdzhn36x",
-        "@HideAmongTheGrass": "https://tinyurl.com/3c4st3cu",
+        "@HideAmongTheGrass": "https://tinyurl.com/3tb3x33j",
         "@IFA3": [
             "http://tinyurl.com/83kpazcu",
             "http://tinyurl.com/mujx6fpu",
@@ -65,6 +65,7 @@
         "@IslaDuala": "http://tinyurl.com/2p93aayh",
         "@JBad": "https://tinyurl.com/mry9cpde",
         "@KPRanks": "https://tinyurl.com/42phfpnm",
+        "@Korsac": "https://tinyurl.com/mu6ks5t3",
         "@Kujari": "http://tinyurl.com/3utdk8en",
         "@KunduzAfgFD": "https://tinyurl.com/3hu3y5r4",
         "@Lingor-DingorIsland": "https://tinyurl.com/2y32jjke",
@@ -101,21 +102,17 @@
         "@Yulakia": "https://tinyurl.com/4bsbskvb"
     },
     "optionals": {
-        "@ARM": "https://tinyurl.com/vnt3z7y2",
+        "@A3ThermalImprovement": "https://tinyurl.com/p7zracxf",
+        "@AarensBlastEffects": "https://tinyurl.com/mr3wunp3",
         "@Athena": "https://tinyurl.com/2jjat265",
         "@AthenaWeb": "https://tinyurl.com/yx6w4nnw",
         "@AutomaticViewDistance": "https://tinyurl.com/4kyptx4t",
-        "@A3ThermalImprovement": "https://tinyurl.com/p7zracxf",
         "@BetterInventory": "https://tinyurl.com/2ptkn8mw",
         "@DiscordRichPresence": "https://tinyurl.com/45psxnch",
-        "@DUI": "https://tinyurl.com/ms2e5ynz",
+        "@DUI": "https://tinyurl.com/5hv34bhz",
         "@EnhancedMap": "https://tinyurl.com/3y8bctpf",
         "@EnhancedMapAce": "https://tinyurl.com/32n3c98n",
-        "@JSRS_USAF": "https://tinyurl.com/yc28r556",
-        "@JSRS_AFRF": "https://tinyurl.com/nhe4hfrf",
-        "@JSRS_GREF": "https://tinyurl.com/y4w23nkb",
-        "@JSRS_SAF": "https://tinyurl.com/2tprk8d9",
-        "@JSRS_SOUNDMOD": "https://tinyurl.com/26h79782",
+        "@JSRS_2025": "https://tinyurl.com/5c5bx79d",
         "@VanillaSmokeForBlastcore": "https://tinyurl.com/ms5c4vcf",
         "@WalkableMovingObjects": "https://tinyurl.com/3c465uud"
     },
