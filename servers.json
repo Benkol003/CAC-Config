@@ -4,7 +4,9 @@
         "port": 3302,
         "country": "United Kingdom",
         "mods": [
+            "ef",
             "rf",
+            "ws",
             "@ace",
             "@ace_nouniformrestrictions",
             "@CBA_A3",
@@ -30,7 +32,9 @@
         "port": 2702,
         "country": "United Kingdom",
         "mods": [
+            "ef",
             "rf",
+            "ws",
             "@CBA_A3",
             "@Mehland",
             "@CUPTerrainsCore",
@@ -52,36 +56,6 @@
             "@ACEGrenades",
             "@HideAmongTheGrass"
         ]
-    },
-    "Alive": {
-        "address": "cac-uk.servegame.com",
-        "port": 2502,
-        "country": "UK",
-        "mods": [
-            "@ace",
-            "@ACEGrenades",
-            "@ace_nouniformrestrictions",
-            "@AdvancedRappelling",
-            "@AdvancedUrbanRappelling",
-            "@ALiVE",
-            "@Arma_3_Aegis",
-            "@Arma_3_Atlas",
-            "@AWR",
-            "@CBA_A3",
-            "@CUPUnits",
-            "@CUPVehicles",
-            "@CUPWeapons",
-            "@Drongos_AI_Fire_Support",
-            "@Drongos_Air_Operations",
-            "@EnhancedMovement",
-            "@EnhancedMovementRework",
-            "@HideAmongTheGrass",
-            "@RealEngine",
-            "@Simplex_Support_Services_[DB]",
-            "@Spyder_Addons",
-            "@VET_Unflipping"
-        ]
-
     },
     "King of The Hill": {
         "address": "cackoth.servebeer.com",
