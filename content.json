@@ -122,19 +122,12 @@
         "pwd": "cs.rin.ru"
     },
     "dlc": {
-        "rf": {
-            "link": "https://tinyurl.com/mv8enesh",
-            "pwd": "cs.rin.ru",
-            "description": "Reaction Forces"
-        },
-        "ws": {
+        "ef": {
             "link": [
-                "https://tinyurl.com/4588vadb",
-                "https://tinyurl.com/5azyuzte"
-            ],
-            "sfv": "https://tinyurl.com/2sjuwync",
+                "https://tinyurl.com/39ehvxj2"
+            ],    
             "pwd": "cs.rin.ru",
-            "description": "Western Sahara"
+            "description": "Expeditionary Forces"
         },
         "spe": {
             "link": [
@@ -149,6 +142,22 @@
             ],
             "pwd": "cs.rin.ru",
             "description": "Spearhead 1944"
+        },
+        "rf": {
+            "link": [
+                "https://tinyurl.com/yc45wutt"
+            ],    
+            "pwd": "cs.rin.ru",
+            "description": "Reaction Forces"
+        },
+        "ws": {
+            "link": [
+                "https://tinyurl.com/5cpr8f4u",
+                "https://tinyurl.com/ntm5cnxk"
+            ],
+            "sfv": "https://tinyurl.com/3ancw7ab",
+            "pwd": "cs.rin.ru",
+            "description": "Western Sahara"
         }
     }
 }
