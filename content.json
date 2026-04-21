@@ -118,7 +118,7 @@
     },
     "arma": {
         "version": "v2.20.152984",
-        "link": "https://tinyurl.com/46km4naf",
+        "link": "https://tinyurl.com/47ew94p5",
         "pwd": "cs.rin.ru"
     },
     "dlc": {
@@ -157,12 +157,17 @@
             "pwd": "cs.rin.ru",
             "description": "Spearhead 1944"
         },
+        "vn": {
+            "link": [
+                "https://tinyurl.com/yj9fwhjn"
+            ],
+            "pwd": "cs.rin.ru",
+            "description": "S.O.G. Prairie Fire"
+        },
         "ws": {
             "link": [
-                "https://tinyurl.com/5cpr8f4u",
-                "https://tinyurl.com/ntm5cnxk"
+                "https://tinyurl.com/335xbfbx"
             ],
-            "sfv": "https://tinyurl.com/3ancw7ab",
             "pwd": "cs.rin.ru",
             "description": "Western Sahara"
         }
