@@ -122,6 +122,13 @@
         "pwd": "cs.rin.ru"
     },
     "dlc": {
+        "csla": {
+            "link": [
+                "https://tinyurl.com/5b3uez6y"
+            ],    
+            "pwd": "cs.rin.ru",
+            "description": "CSLA Iron Curtain"
+        },
         "ef": {
             "link": [
                 "https://tinyurl.com/5b3uez6y"
@@ -129,19 +136,12 @@
             "pwd": "cs.rin.ru",
             "description": "Expeditionary Forces"
         },
-        "spe": {
-            "link": [
-                "https://tinyurl.com/yc4ydszm",
-                "https://tinyurl.com/zxm6uhk9",
-                "https://tinyurl.com/2ke6apr5",
-                "https://tinyurl.com/nkyk9rdf",
-                "https://tinyurl.com/y38uketc",
-                "https://tinyurl.com/4vvwp6ur",
-                "https://tinyurl.com/2cf7penj",
-                "https://tinyurl.com/4tksd8ah"
+        "gm": {
+            "link": [ 
+                "https://tinyurl.com/5327xubc"
             ],
             "pwd": "cs.rin.ru",
-            "description": "Spearhead 1944"
+            "description": "Global Mobilization"
         },
         "rf": {
             "link": [
@@ -149,6 +149,13 @@
             ],    
             "pwd": "cs.rin.ru",
             "description": "Reaction Forces"
+        },
+        "spe": {
+            "link": [
+                "https://tinyurl.com/5bsfsstp"
+            ],
+            "pwd": "cs.rin.ru",
+            "description": "Spearhead 1944"
         },
         "ws": {
             "link": [
@@ -158,23 +165,6 @@
             "sfv": "https://tinyurl.com/3ancw7ab",
             "pwd": "cs.rin.ru",
             "description": "Western Sahara"
-        },
-        "gm": {
-            "link": [ 
-                "https://tinyurl.com/58zakntx",
-                "https://tinyurl.com/y657tasx",
-                "https://tinyurl.com/267syft7",
-                "https://tinyurl.com/7v3d8cwy",
-                "https://tinyurl.com/2tntsd73",
-                "https://tinyurl.com/yvc4338f",
-                "https://tinyurl.com/4xn6hjrw",
-                "https://tinyurl.com/4t77ye2w",
-                "https://tinyurl.com/yy5nvy7f",
-                "https://tinyurl.com/2twphwup"
-            ],
-            "sfv": "https://tinyurl.com/yxs5uuyd",
-            "pwd": "cs.rin.ru",
-            "description": "Global Mobilization"
         }
     }
 }
